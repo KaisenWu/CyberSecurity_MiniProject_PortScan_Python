@@ -1,0 +1,4 @@
+{
+	"servers":["localhost","ubuntu2204"],
+	"ports": "22, 80, 631, 3306"
+}
